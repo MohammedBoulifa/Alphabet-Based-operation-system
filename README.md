@@ -156,6 +156,8 @@ This project was developed as part of the **Informatique Systèmes (LMD)** curri
 
 ## Author
 
-**Mohammed**  
+**Mohammed Boulifa**  
+Senior Graphic Designer and Software Developer
+
 Computer Science Student — Informatique Systèmes (LMD)  
 University of Ouargla, Algeria
