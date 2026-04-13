@@ -230,7 +230,7 @@ int main() {
         printf("========================================\n");
         printf(" 1. Create alphabet\n");
         printf(" 2. Validate word (automaton)\n");
-        printf("----------------------------------------\n");
+        printf("========================================\n");
         printf(" 3. Length\n");
         printf(" 4. Count occurrences of a symbol\n");
         printf(" 5. Concatenate two words\n");
@@ -238,7 +238,7 @@ int main() {
         printf(" 7. Equality\n");
         printf(" 8. Mirror (reverse)\n");
         printf(" 9. Palindrome check\n");
-        printf("----------------------------------------\n");
+        printf("========================================\n");
         printf(" 0. Exit\n");
         printf("Choice: ");
         scanf("%d", &choice);
